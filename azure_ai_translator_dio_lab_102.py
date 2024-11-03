@@ -8,7 +8,7 @@ Original file is located at
 """
 
 
-!pip install requests python-docx
+'''!pip install requests python-docx'''
 
 import requests
 from docx import Document
